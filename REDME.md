@@ -41,8 +41,8 @@ I've just started learning Vim and emacs as a secondary editor and i love using.
 <!--START_SECTION:waka-->
 
 ```text
-C++          15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-Java         11 hr 50 mins   ██████████████░░░░░░░░░░░   09.61 %
-Python       2 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+C++          15 hrs 41 mins  ████████████████████   82.29 %
+Java         11 hr 50 mins   ██████████████         09.61 %
+Python       2 hr 27 mins    ██                     07.63 %
 ```
 Thank You for reading.
