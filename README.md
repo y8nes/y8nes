@@ -11,7 +11,6 @@ I'm zYunes Xinus a typical computer geek currently studying Flutter for app deve
 - I use arch btw
 - using Emacs as lifestyle and Vim for editing stuff
 - :computer: Most used line of code " sudo pacman -Syyu "
-- 📫 How to reach me: callyunes@protonmail.com.
 - i play games at exam nights nerds
 
 #### I am also Learning
@@ -23,8 +22,7 @@ I'm zYunes Xinus a typical computer geek currently studying Flutter for app deve
 
 #### Bizness
 
-- :email: callyunes@protonmail.com
-
+- 📫 How to reach me: callyunes@protonmail.com.
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YunesXinus)
