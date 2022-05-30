@@ -9,7 +9,7 @@ I'm zYunes Xinus a typical computer geek currently studying Flutter for app deve
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently not working anywhere
-- :computer: Most used line of code `sudo rm rf"`
+- :computer: Most used line of code " sudo pacman -Syyu "
 - 📫 How to reach me: callyunes@protonmail.com.
 - ⚡ i play games at exam nights nerds
 
