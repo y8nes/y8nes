@@ -8,12 +8,11 @@ I'm zYunes Xinus a typical computer geek currently studying Flutter for app deve
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently not working anywhere
 - I use arch btw
 - using Emacs as lifestyle and Vim for editing stuff
 - :computer: Most used line of code " sudo pacman -Syyu "
 - 📫 How to reach me: callyunes@protonmail.com.
-- ⚡ i play games at exam nights nerds
+- i play games at exam nights nerds
 
 #### I am also Learning
 
