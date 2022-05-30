@@ -9,6 +9,8 @@ I'm zYunes Xinus a typical computer geek currently studying Flutter for app deve
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently not working anywhere
+- I use arch btw
+- using Emacs as lifestyle and Vim for editing stuff
 - :computer: Most used line of code " sudo pacman -Syyu "
 - 📫 How to reach me: callyunes@protonmail.com.
 - ⚡ i play games at exam nights nerds
@@ -20,8 +22,6 @@ I'm zYunes Xinus a typical computer geek currently studying Flutter for app deve
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-I use arch btw
-And using Vim and Emacs
 #### Bizness
 
 - :email: callyunes@protonmail.com
