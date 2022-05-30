@@ -19,6 +19,9 @@ I'm zYunes Xinus a typical computer geek currently studying Flutter for app deve
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+I use arch btw
+And using Vim and Emacs
 #### Bizness
 
 - :email: callyunes@protonmail.com
@@ -27,22 +30,4 @@ I'm zYunes Xinus a typical computer geek currently studying Flutter for app deve
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YunesXinus)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
 
-<br >
-
-I've just started learning Vim and emacs as a secondary editor and i love using.
-
-####  Mt Coding Stats
-
-<!--START_SECTION:waka-->
-
-```text
-C++          15 hrs 41 mins  ████████████████████   82.29 %
-Java         11 hr 50 mins   ██████████████         09.61 %
-Python       2 hr 27 mins    ██                     07.63 %
-```
-Thank You for reading.
