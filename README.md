@@ -9,7 +9,7 @@ I'm zYunes Xinus a typical computer geek
 <!-- TODO: Add last video link -->
 
 - I use arch btw
-- using Emacs as lifestyle and Vim for editing stuff
+- using Vim as lifestyle
 - :computer: Most used line of code " sudo pacman -Syyu "
 - i play games at exam nights nerds
 
