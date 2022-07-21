@@ -10,7 +10,7 @@ I'm zYunes Xinus a typical computer geek
 
 - I use arch btw
 - using Vim as lifestyle
-- :computer: Most used line of code " sudo pacman -Syyu "
+- :computer: Most used line " sudo pacman -Syyu "
 - i play games at exam nights nerds
 
 #### I am also Learning
