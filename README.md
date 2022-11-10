@@ -1,3 +1,5 @@
+[![MasterHead](https://i.kym-cdn.com/entries/icons/mobile/000/034/408/Punching_Pepe_Banner.jpg)](https://y3nes.me)
+
 <h1 align="center">Hi 👋, I'm YunesXinus</h1>
 <h3 align="center">A Typical computer Nerd</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*oyD7ekV-hMU91h4J.png">
@@ -10,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any tech related stuff**
 
-- 👨‍💻 Check out my website [y3nes.me](https://y3nes.me)
+- 👨‍💻 Check out my website [y3nes.me](y3nes.me)
 
 - 📫 How to reach me **straightdozari@tutanota.com**
 
