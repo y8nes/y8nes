@@ -1,12 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm YunesXinus</h1>
 <h3 align="center">A Typical computer Nerd</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*oyD7ekV-hMU91h4J.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunesxinus&label=Profile%20views&color=0e75b6&style=flat" alt="yunesxinus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunesxinus" alt="yunesxinus" /></a> </p>
 
 - 🔭 I’m currently working on **React projects**
 
