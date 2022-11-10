@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Any tech related stuff**
 
-- 👨‍💻 Check out my website [y3nes.me](y3nes.me)
+- 👨‍💻 Check out my website [y3nes.me](https://y3nes.me)
 
 - 📫 How to reach me **straightdozari@tutanota.com**
 
