@@ -1,28 +1,34 @@
-## Hi I'm Yunes <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
+<h1 align="center">Hi 👋, I'm YunesXinus</h1>
+<h3 align="center">A Typical computer Nerd</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-:mailbox: Reach me out!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunesxinus&label=Profile%20views&color=0e75b6&style=flat" alt="yunesxinus" /> </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Straightdozari-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/straightdozari)](https://twitter.com/straightdozari) [![Mail Badge](https://img.shields.io/badge/-@straightdozari-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/straightdozari) [![Mail Badge](https://img.shields.io/badge/-YunesXinus-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:callyunes@protonmail.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunesxinus" alt="yunesxinus" /></a> </p>
 
-<!-- TODO: Add last video link -->
+- 🔭 I’m currently working on **React projects**
 
-- I use arch btw
-- using Vim as lifestyle
-- :computer: Most used line " sudo pacman -Syyu "
-- i play games at exam nights nerds
+- 🌱 I’m currently learning **Flutter, React, Kotlin**
 
-#### I am also Learning
+- 👯 I’m looking to collaborate on **Any tech related stuff**
 
-<!-- TODO: Make technologies links takes you to repositories -->
+- 👨‍💻 Check out my website [y3nes.me](y3nes.me)
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+- 📫 How to reach me **straightdozari@tutanota.com**
 
-#### Bizness
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/straghtdozari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="straghtdozari" height="30" width="40" /></a>
+<a href="https://instagram.com/straightdozari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="straightdozari" height="30" width="40" /></a>
+</p>
 
-- 📫 How to reach me: callyunes@protonmail.com.
-#### Profile Visits
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YunesXinus)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunesxinus&show_icons=true&locale=en&layout=compact" alt="yunesxinus" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunesxinus&show_icons=true&locale=en" alt="yunesxinus" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunesxinus&" alt="yunesxinus" /></p>
