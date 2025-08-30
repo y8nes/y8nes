@@ -7,5 +7,4 @@
 
 ---
 
-Linux, Vim, free software enjoyer
 
